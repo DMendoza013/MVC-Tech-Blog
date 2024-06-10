@@ -19,4 +19,4 @@ This project is still a work in progess.
 
 ## Credits
 
-The mini-project for the week helped me set up the models and server.js
+The mini-project for the week helped me set up the models, server.js, and I used the jass.css file to help format the HTML in views.
